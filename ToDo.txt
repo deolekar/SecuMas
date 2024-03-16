@@ -1,0 +1,16 @@
+Technical:
+    Performance improvement of current code
+    VOX / pytest - Test automation
+    Sphinx - auto documentation
+
+Functional:
+    Identifiers: 
+        LEI
+        FIGI
+        WKN
+        VALOREN 
+    Lookup: 
+        GICS
+        CFI
+    Data files: 
+        BBG BO <-> CSV

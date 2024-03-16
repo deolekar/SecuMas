@@ -22,8 +22,6 @@ def validate(identifier):
         return 'Invalid Format'
     if len(identifier) != 12:
         return 'Incorrect Length'
-    """if identifier[:2] not in _country_codes:
-        raise InvalidComponent()"""
     if get_check_digit(identifier[:-1]) != identifier[-1]:
         return 'Incorrect Checkdigit'
     return identifier

@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="SecuMas",
-    version="0.0.1.2",
+    version="0.0.1.4",
     author="A Deolekar",
     author_email="sher.buk@gmail.com",
     url="https://secumas.dev",
