@@ -14,7 +14,7 @@ def get_check_digit(identifier):
     return str((10 - s) % 10)
 
 def validate(identifier):
-    """Check if SEDOL id valid. This checks the length and check digit."""
+    """Check if SEDOL is valid. This checks the length and check digit."""
     identifier = stripe(identifier)
     if not all(x in _characterSet for x in identifier):
         return 'Invalid Format'

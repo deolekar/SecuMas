@@ -16,7 +16,7 @@ def get_check_digit(identifier):
     return str((10 - sum(int(n) for n in identifier)) % 10)
 
 def validate(identifier):
-    """Check if ISIN id valid. This checks the length and check digit."""
+    """Check if ISIN is valid. This checks the length and check digit."""
     identifier = stripe(identifier)
     if not all(x in _characterSet for x in identifier):
         return 'Invalid Format'
