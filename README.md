@@ -25,7 +25,7 @@ print (SecuMas.isin.dummy(5))
 
 # Code contributions
 
-> [Check ToDo](https://github.com/deolekar/MMjs/blob/main/ToDo.txt)
+> [Check ToDo](https://github.com/deolekar/SecuMas/blob/master/ToDo.txt)
 
 Improvements to SecuMas are most welcome. Integrating contributions will be done on a best-effort basis and can be made easier if the following are considered:
 
