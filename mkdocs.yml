@@ -1,5 +1,5 @@
 site_name: SecuMas (Security Master Library)
-site_url: https://deolekar.github.io/SecuMas/
+site_url: https://secumas.dev/
 theme:
   logo: assets/logo.png
   name: material
