@@ -29,3 +29,11 @@ print(classification.sub_industry.code) #45203020
 ```
 
 </br>
+By default latest [GICS mapping](https://github.com/deolekar/SecuMas/tree/master/SecuMas/definitions) is referred. Below snippet point to previous version of the mapping.
+
+```py
+#classification = SecuMas.gics(<gics_code>, <date>)
+classification = SecuMas.gics('45203020', '20180929')
+```
+
+</br>
