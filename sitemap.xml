@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://secumas.dev/</loc>
+         <lastmod>2024-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://secumas.dev/fileUtility/</loc>
+         <lastmod>2024-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://secumas.dev/identifier/</loc>
+         <lastmod>2024-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://secumas.dev/lookup/</loc>
+         <lastmod>2024-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
